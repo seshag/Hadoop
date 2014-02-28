@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/DownLoads/BigData/hadoop-0.18.0-tools.jar"/>
+	<classpathentry kind="lib" path="C:/DownLoads/BigData/hadoop-0.18.0-core.jar" sourcepath="C:/DownLoads/BigData/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
